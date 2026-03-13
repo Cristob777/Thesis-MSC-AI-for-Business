@@ -142,7 +142,7 @@ jupyter notebook notebooks/green_hydrogen_optimization.ipynb
 
 **Cristóbal Cáceres Ortúzar** — Solutions Engineer, based in Dublin, Ireland.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobalgb/)
+[![LinkedIn]https://www.linkedin.com/in/cristobal361/
 
 ---
 
